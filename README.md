@@ -1,1 +1,13 @@
 # sortDrink
+
+Instructions are for technique for drinking from standard cup that may improve biointegration of fluid and/or accompanying pills.
+
+1. Drink from cup as normal. Wait 6-10 seconds.
+2. Place cup on top of tongue and drink. Wait 2.5-3.5 seconds.
+3. Place pill on tongue, then place cup atop tongue and drink. Wait 5 seconds.
+4. Place cup on top of tongue and drink. Wait 5 seconds.
+5. Drink between teeth.
+
+After each step, keep mouth gently closed 4 seconds. 
+
+If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. 
