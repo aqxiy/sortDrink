@@ -13,3 +13,5 @@ Timings relate to elapsed since first swallow post drink to next mouth open. Aft
 If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. 
 
 If chaining pills, the best pill-to-pill (final swallow to next mouth open) duration may be 9-14 seconds. 
+
+If out of timing or otherwise wish to wait longer, wait 3 minutes (first swallow of final step to mouth open for drink)
