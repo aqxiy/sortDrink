@@ -2,11 +2,11 @@
 
 Instructions are for technique for drinking from standard cup, wine glass, or beaker that may improve biointegration of fluid and/or accompanying pills.
 
-1. Drink from cup as normal. Maybe 1 second of normal sipping. Wait 6-10 seconds.
-2. Place cup on top of tongue and drink. Wait 2.5-3.5 seconds.
+1. Drink from cup as normal. Maybe 1.5 seconds of normal sipping. Wait 6-10 seconds.
+2. Place cup on top of tongue and drink. Wait 2.5-3.5 seconds. Sips on top of tongue tend to self-meter and last around a second. 
 3. Place pill on tongue, then place cup atop tongue and drink. Wait 5 seconds.
 4. Place cup on top of tongue and drink. Wait 5 seconds.
-5. Drink between teeth.
+5. Drink between teeth. Maybe 2 seconds of normal sipping. 
 
 Timings relate to elapsed since first swallow of step to next mouth open. After each step, keep mouth gently closed 4 seconds. 5 seconds for final step.
 
