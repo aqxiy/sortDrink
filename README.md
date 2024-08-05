@@ -8,7 +8,7 @@ Instructions are for technique for drinking from standard cup that may improve b
 4. Place cup on top of tongue and drink. Wait 5 seconds.
 5. Drink between teeth.
 
-Timings relate to elapsed since first swallow post drink to next mouth open. After each step, keep mouth gently closed 4 seconds. 5 seconds post final step.
+Timings relate to elapsed since first swallow of step to next mouth open. After each step, keep mouth gently closed 4 seconds. 5 seconds post final step.
 
 If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. Try to not eat or drink during these 3-5 minutes.
 
