@@ -10,8 +10,8 @@ Instructions are for technique for drinking from standard cup that may improve b
 
 Timings relate to elapsed since first swallow post drink to next mouth open. After each step, keep mouth gently closed 4 seconds. 5 seconds post final step.
 
-If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. 
+If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. Try to not eat or drink during these 3-5 minutes.
 
 If chaining pills, the best pill-to-pill (final swallow to next mouth open) duration may be 9-14 seconds. 
 
-If out of timing or otherwise wish to wait longer, wait 3 minutes (first swallow of final step to mouth open for drink)
+If out of timing or otherwise wish to wait longer, wait 3 minutes (first swallow of final step to mouth open for drink). Try to not eat or drink during these 3 minutes.
