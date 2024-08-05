@@ -1,6 +1,6 @@
 # sortDrink
 
-Instructions are for technique for drinking from standard cup that may improve biointegration of fluid and/or accompanying pills.
+Instructions are for technique for drinking from standard cup, wine glass, or beaker that may improve biointegration of fluid and/or accompanying pills.
 
 1. Drink from cup as normal. Wait 6-10 seconds.
 2. Place cup on top of tongue and drink. Wait 2.5-3.5 seconds.
