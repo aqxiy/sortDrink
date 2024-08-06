@@ -11,7 +11,7 @@ Note: Timings relate to elapsed since first swallow of step to next step's mouth
 5. Drink between teeth. Maybe 2 seconds of normal sipping. 
 
 
-If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill. Try to not eat or drink during these 3-5 minutes.
+If taking a pill, the suggetion is to perform first with pill, then 3-5 minutes later without pill (maybe 3.5 min best). Try to not eat or drink during these 3-5 minutes.
 
 If chaining pills, the best pill-to-pill (final swallow to next mouth open) duration may be 9-14 seconds. 
 
